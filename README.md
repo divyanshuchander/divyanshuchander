@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I like computers!
+Thats pretty much it!
 <!--
 **divyanshuchander/divyanshuchander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
