@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at ["I'll post them soon"]("I'll post them soon")
+- 👨‍💻 All of my projects are available at [I'll post them soon]
 
 - 📫 How to reach me **contact@divyanshuchander.com**
 
