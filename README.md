@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Chander</h1>
 <h3 align="center">A passionate person who loves just about everything related to computers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshuchander&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshuchander" /> </p>
 
 - 🔭 I’m currently working on **some cool projects**
 
