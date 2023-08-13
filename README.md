@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshuchander&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshuchander" /> </p>
 
-- 🔭 I’m currently working on **an open source proje**
+- 🔭 I’m currently working on **some cool projects**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
