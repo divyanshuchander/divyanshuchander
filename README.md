@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [I'll post them soon]
-
 - 📫 How to reach me **contact@divyanshuchander.com**
 
 - ⚡ Fun fact **I want to learn everything...!**
