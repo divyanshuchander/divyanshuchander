@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **contact@divyanshuchander.com**
+- 📫 How to reach me **divyanshuchander23@gmail.com**
 
 - ⚡ Fun fact **I want to learn everything...!**
 
