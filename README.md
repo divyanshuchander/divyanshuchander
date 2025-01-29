@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **divyanshuchander23@gmail.com**
 
-- ⚡ Fun fact **I want to learn everything...!**
+- ⚡ Fun fact **Someday I want to contribute to Linux Kernel!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
